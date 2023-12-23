@@ -1,7 +1,3 @@
-Based on the initial cells of the Jupyter notebook, it appears that the project is focused on the statistical analysis of marathon data. Here's a draft for a GitHub README for this project:
-
----
-
 # Statistical Analysis of Marathon Data
 
 ## Overview
